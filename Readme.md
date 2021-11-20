@@ -1,6 +1,6 @@
 ## Oslash Backend Developer Task Submission ExpressJS API
 #### Tasklink: https://getoslash.notion.site/OSlash-Backend-Engineering-Assignment-OSlash-Clone-6a72b110f7c24b8f928138a9a8ed0ee5
-#### Oslash Backend Task in NestJS is Here: https://github.com/Meetmetha/oslash  
+#### Oslash Backend Task in NestJS is Here: https://github.com/Meetmetha/oslash-nestjs  
 #### RestAPI Hosted Live Here: [Check in Action](https://oslashexpressjs.miteshmetha.com) 🥳 
 ### Technologies & Framework: ExpressJS - Mongodb - Meilisearch
 The Task is completed by using ExpressJS as framework for API,   
