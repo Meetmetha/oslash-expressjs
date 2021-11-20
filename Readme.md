@@ -20,8 +20,8 @@ Below are some required Keys (SMTP & AWS keys are not required)
 PORT=3000
 MONGODB_URL=mongodb://localhost:27017/oslashexpress
 JWT_SECRET=ThisIsMySecretJWT
-AWSID=AKIA4L5SKK3JI5YI4GES
-AWSKEY=DVEvFpLlkX+iEOaTjakoE0sGwFh5YK1kSO1OlmFc
+MEILISEARCH_HOST=yourdeployedmeilisearchurl
+MEILISEARCH_APIKEY=privatekeyhere
 ```
 ### Run Project
 ```
